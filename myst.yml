@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 37d601c8-f438-47a8-ba46-048c06419b95
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/reemarafifar72/STAT159_Lab11
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
