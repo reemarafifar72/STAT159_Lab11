@@ -1,0 +1,19 @@
+---
+title: "STAT 159 Lab 11"
+subtitle: "Which country has the most solar energy?"
+author: "Reema and Urwa"
+format: revealjs
+embed-resources: true
+---
+
+# Data Processing
+
+::: {.incremental}
+-   Download data using the provided script, `pydytuesday.get_date('2026-05-26')` 
+-   Import `energy_cleaned.csv` using pandas
+-   Filter for latest year in dataset (2010)
+-   Sort by `solar_energy_consumption_terajoules` to find largest consumption
+:::
+
+# China {background-image="https://www.publicdomainpictures.net/pictures/340000/velka/china-flag-themes-idea-1588676201Ekg.jpg"}
+
